@@ -18,11 +18,10 @@ Do the setup on your Climber laptop, not on a customer-issued machine.
 - [ ] VS Code, latest
 - [ ] Git, configured with your name and email, able to clone and push to git.climber.cloud
 - [ ] Claude Code: `claude --version` runs and you're logged in with your work account
-- [ ] dbt 2.0, installed with dbt Labs' installer (not pip): `dbt --version` shows
-      `dbt 2.x`. If it shows 1.x, an old dbt Core is first on your PATH. Remove it or
-      deactivate that virtual env.
-- [ ] Python 3.10+, for the DuckDB fallback: `python --version`, then
-      `pip install -r requirements.txt`
+- [ ] Python 3.10+: `python --version`
+- [ ] dbt 2.0 and DuckDB: `python -m pip install -r requirements.txt` (a virtual env is
+      fine). `dbt --version` must show `dbt 2.x`. If it shows 1.x, an old dbt Core is
+      first on your PATH. Remove it or deactivate that virtual env.
 - [ ] Snowflake CLI: `snow --version`
 - [ ] Cortex Code CLI, if you want it in VS Code as well as in Snowsight
 - [ ] VS Code extensions: Snowflake, and the official dbt extension
