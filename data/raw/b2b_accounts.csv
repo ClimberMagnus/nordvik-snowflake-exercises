@@ -1,0 +1,151 @@
+ORG_ID,ORG_NAMN,ORGNR,PARENT_ORG_ID,LAND,BRANSCH,AVTAL_START
+ORG0001,Vattenhall Group,558386382,,NL,Healthcare,2022-09-01
+ORG0002,Nordbygg Group,551501269,,FI,Energy,2016-11-22
+ORG0003,Skanetrafik Holding,557586645,,FI,Energy,2017-03-15
+ORG0004,Aurora Logistik Group,554928618,,NO,Logistics,2022-02-04
+ORG0005,Bergkraft Holding,552121035,,NL,Professional services,2020-02-12
+ORG0006,Sydkust Entreprenad Holding,553955380,,SE,Construction,2022-04-10
+ORG0007,Polarfrakt Group,558375145,,NO,Retail,2020-11-30
+ORG0008,Kustbanken Holding,559327386,,NL,Construction,2021-07-02
+ORG0009,Granstad Kommun Group,559950806,,FI,Construction,2017-11-02
+ORG0010,Helios Energi Group,558941874,,NO,Construction,2017-07-12
+ORG0011,Fjordtek Group,555566170,,NL,Energy,2018-07-11
+ORG0012,Nordlys Media Group,552639855,,SE,Manufacturing,2022-06-03
+ORG0013,Saltsjo Konsult Holding,555022654,,SE,Retail,2017-09-07
+ORG0014,Vinterberg Industri Group,555953073,,SE,Energy,2022-05-06
+ORG0015,Blaklint Fastigheter Holding,553260330,,NL,Energy,2017-06-21
+ORG0016,Ekbacken Vard Holding,559542144,,NO,Retail,2019-10-17
+ORG0017,Storvik Handel Group,554126401,,FI,Retail,2022-08-21
+ORG0018,Tranas Verkstad Holding,553088452,,FI,Retail,2017-06-15
+ORG0019,Lumia Solutions Group,552891866,,NO,Retail,2018-10-27
+ORG0020,Kvarnholmen Bygg Group,551574747,,FI,Public sector,2021-09-25
+ORG0021,Nordkapp Shipping Group,554051989,,FI,Logistics,2019-06-14
+ORG0022,Tundra Analytics Group,552375128,,SE,Logistics,2019-06-26
+ORG0023,Solbacka Skola Group,555268093,,NO,Manufacturing,2018-05-16
+ORG0024,Vastkusten Bil Holding,558878034,,NO,Construction,2020-01-19
+ORG0025,Malmgren Revision Holding,556622949,,NO,Manufacturing,2020-01-06
+ORG0026,Sydberg AS,557369125,,NL,Construction,2022-05-21
+ORG0027,Nordberg BV,556115221,,SE,Professional services,2022-09-24
+ORG0028,Lumia Solutions Service AB,557150006,ORG0019,SE,Logistics,2021-03-10
+ORG0029,Vastlund Oy,553002477,,SE,Construction,2018-04-09
+ORG0030,Grondal AB,557734535,,SE,Construction,2021-11-22
+ORG0031,Aurora Logistik Sverige AB,553068250,ORG0004,SE,Construction,2022-12-24
+ORG0032,Sydvik AB,555301224,,NO,Manufacturing,2022-08-07
+ORG0033,Tranas Verkstad Sverige AB,553846131,ORG0018,SE,Public sector,2023-04-12
+ORG0034,Ostvik AB,557932928,,FI,Construction,2018-11-29
+ORG0035,Vitdal AS,555354856,,SE,Public sector,2018-08-01
+ORG0036,Vastfors Oy,552122212,,SE,Manufacturing,2021-05-10
+ORG0037,Skanetrafik Nederland BV,556372928,ORG0003,SE,Healthcare,2018-03-06
+ORG0038,Vitstrand AB,554097675,,SE,Retail,2022-01-01
+ORG0039,Ostberg AB,556501160,,FI,Energy,2019-07-16
+ORG0040,Sydkust Entreprenad Suomi Oy,556252342,ORG0006,SE,Construction,2020-01-26
+ORG0041,Sydfors AB,551138524,,SE,Professional services,2018-10-10
+ORG0042,Vastberg BV,553745535,,NL,Public sector,2019-07-05
+ORG0043,Nordberg BV,554526808,,SE,Manufacturing,2022-09-13
+ORG0044,Kvarnholmen Bygg Holding,552038916,ORG0020,SE,Energy,2021-01-18
+ORG0045,Vastdal AS,559639870,,NO,Energy,2020-05-23
+ORG0046,Nordlund AS,554128296,,FI,Public sector,2020-07-21
+ORG0047,Lumia Solutions Teknik AB,551287524,ORG0019,NL,Logistics,2018-02-09
+ORG0048,Vastberg BV,559628868,,SE,Logistics,2018-07-12
+ORG0049,Sydfors BV,555789961,,SE,Retail,2018-10-27
+ORG0050,Polarfrakt Nederland BV,553547774,ORG0007,SE,Retail,2018-10-14
+ORG0051,Blavik Oy,558458058,,FI,Logistics,2020-04-26
+ORG0052,Norddal BV,557329615,,FI,Healthcare,2018-11-23
+ORG0053,Vitvik BV,553575994,,FI,Professional services,2019-12-25
+ORG0054,Vinterberg Industri Nordic,558538245,ORG0014,SE,Retail,2021-12-03
+ORG0055,Vastlund AB,553008716,,SE,Energy,2018-10-02
+ORG0056,Vastvik BV,559460843,,SE,Construction,2022-05-22
+ORG0057,Bladal BV,552582648,,SE,Energy,2020-04-29
+ORG0058,Blaklint Fastigheter Sverige AB,552429804,ORG0015,FI,Logistics,2022-08-17
+ORG0059,Gronberg AS,559605329,,SE,Energy,2020-07-17
+ORG0060,Ekbacken Vard Teknik AB,555283297,ORG0016,SE,Construction,2022-04-02
+ORG0061,Vitdal AS,559730874,,NL,Logistics,2022-03-02
+ORG0062,Sydstrand AB,553532813,,SE,Manufacturing,2022-10-30
+ORG0063,Vitdal Oy,551143395,,SE,Manufacturing,2019-07-28
+ORG0064,Vaststrand Oy,556351110,,NO,Construction,2023-03-07
+ORG0065,Ostvik BV,552721022,,SE,Healthcare,2021-07-14
+ORG0066,Gronstrand AB,556588453,,FI,Retail,2023-02-24
+ORG0067,Bergkraft Norge AS,557471119,ORG0005,SE,Energy,2023-02-18
+ORG0068,Helios Energi Nederland BV,554481685,ORG0010,SE,Logistics,2017-11-08
+ORG0069,Sydvik BV,556192653,,NO,Construction,2019-12-20
+ORG0070,Nordlund BV,556193855,,FI,Public sector,2022-01-14
+ORG0071,Blastrand BV,553815617,,SE,Retail,2020-03-05
+ORG0072,Helios Energi Holding,556758291,ORG0010,NL,Manufacturing,2020-02-26
+ORG0073,Vastvik AB,558231533,,SE,Public sector,2018-02-16
+ORG0074,Sydfors Oy,552783463,,SE,Energy,2023-03-29
+ORG0075,Sydlund BV,559518158,,FI,Manufacturing,2019-07-22
+ORG0076,Gronberg AB,551708104,,NO,Professional services,2019-10-18
+ORG0077,Nordberg Oy,552378864,,NO,Professional services,2019-10-25
+ORG0078,Sydfors Oy,555516454,,SE,Public sector,2019-11-20
+ORG0079,Vitvik AB,553706019,,SE,Retail,2019-08-28
+ORG0080,Bergkraft Norge AS,558224826,ORG0005,SE,Logistics,2022-04-23
+ORG0081,Nordvik BV,556260871,,SE,Energy,2022-12-15
+ORG0082,Vastvik Oy,554246461,,NO,Manufacturing,2020-02-09
+ORG0083,Vitstrand AS,557562547,,SE,Healthcare,2022-06-11
+ORG0084,Nordlys Media Teknik AB,555726667,ORG0012,NO,Retail,2020-02-09
+ORG0085,Nordfors BV,555502703,,NL,Retail,2020-06-08
+ORG0086,Storvik Handel Suomi Oy,554067044,ORG0017,SE,Professional services,2018-08-27
+ORG0087,Malmgren Revision Norge AS,556708918,ORG0025,SE,Energy,2022-07-22
+ORG0088,Granstad Kommun Service AB,559642163,ORG0009,SE,Public sector,2022-06-01
+ORG0089,Vitvik BV,557039612,,SE,Professional services,2018-05-07
+ORG0090,Vastvik AB,555701979,,NO,Public sector,2019-07-04
+ORG0091,Sydlund Oy,553174415,,FI,Professional services,2020-04-08
+ORG0092,Lumia Solutions Holding,552490419,ORG0019,NL,Retail,2021-07-30
+ORG0093,Sydvik AS,551578005,,SE,Energy,2022-10-23
+ORG0094,Vitstrand BV,553882958,,SE,Manufacturing,2020-03-06
+ORG0095,Ostfors AS,554289947,,NL,Energy,2023-02-17
+ORG0096,Vastdal AB,556322642,,NL,Healthcare,2018-09-04
+ORG0097,Aurora Logistik Nederland BV,556220610,ORG0004,SE,Professional services,2021-08-16
+ORG0098,Ostdal Oy,559933160,,FI,Construction,2021-10-07
+ORG0099,Blastrand AB,555632384,,SE,Manufacturing,2022-08-29
+ORG0100,Nordlund AB,551758470,,NO,Healthcare,2022-12-23
+ORG0101,Saltsjo Konsult Norge AS,558305267,ORG0013,NL,Professional services,2020-10-16
+ORG0102,Grondal Oy,556909388,,NO,Public sector,2019-07-18
+ORG0103,Vitberg Oy,554031031,,FI,Healthcare,2022-04-08
+ORG0104,Blafors AB,555821039,,NO,Logistics,2020-07-06
+ORG0105,Grondal BV,558190144,,SE,Public sector,2022-07-29
+ORG0106,Vastdal AS,554915983,,SE,Manufacturing,2020-09-12
+ORG0107,Kustbanken Norge AS,553529193,ORG0008,FI,Professional services,2020-02-27
+ORG0108,Vitlund Oy,551241673,,NO,Energy,2022-10-16
+ORG0109,Nordberg BV,555925163,,NO,Professional services,2021-12-10
+ORG0110,Nordlys Media Nordic,554675685,ORG0012,NO,Professional services,2021-08-14
+ORG0111,Nordlund BV,556042000,,SE,Manufacturing,2021-06-12
+ORG0112,Skanetrafik Suomi Oy,558742230,ORG0003,SE,Construction,2021-10-18
+ORG0113,Syddal AB,553759174,,NO,Construction,2019-03-26
+ORG0114,Vastlund BV,554318191,,SE,Professional services,2020-05-13
+ORG0115,Syddal Oy,559100074,,NL,Logistics,2022-11-07
+ORG0116,Blavik Oy,551950486,,FI,Construction,2021-08-26
+ORG0117,Blavik AB,552095000,,SE,Retail,2018-11-18
+ORG0118,Blafors Oy,555105295,,FI,Logistics,2020-04-14
+ORG0119,Blafors AS,559072394,,FI,Healthcare,2022-02-08
+ORG0120,Nordberg AS,557423460,,SE,Professional services,2022-08-05
+ORG0121,Vinterberg Industri Teknik AB,552927679,ORG0014,SE,Professional services,2022-12-01
+ORG0122,Vitberg AS,552386865,,SE,Public sector,2019-08-31
+ORG0123,Grondal Oy,555059748,,SE,Construction,2022-04-17
+ORG0124,Ostberg AB,552928879,,SE,Retail,2018-12-11
+ORG0125,Lumia Solutions Sverige AB,553307690,ORG0019,SE,Energy,2019-04-11
+ORG0126,Blafors Oy,552938364,,SE,Construction,2020-01-20
+ORG0127,Polarfrakt Suomi Oy,556001382,ORG0007,NO,Construction,2021-06-30
+ORG0128,Vastlund AS,559425440,,FI,Manufacturing,2021-04-12
+ORG0129,Vitberg AS,551814193,,NL,Healthcare,2021-09-15
+ORG0130,Oststrand Oy,559665749,,SE,Construction,2021-06-02
+ORG0131,Ostdal BV,555889556,,SE,Logistics,2022-11-28
+ORG0132,Vastdal BV,555567835,,FI,Healthcare,2020-02-24
+ORG0133,Lumia Solutions Nederland BV,559769866,ORG0019,SE,Construction,2021-08-14
+ORG0134,Tundra Analytics Nederland BV,551193227,ORG0022,SE,Retail,2020-07-26
+ORG0135,Blavik BV,552972390,,SE,Public sector,2020-12-15
+ORG0136,Bergkraft Suomi Oy,556589365,ORG0005,SE,Energy,2018-09-18
+ORG0137,Nordlys Media Teknik AB,557599618,ORG0012,NL,Professional services,2022-07-29
+ORG0138,Lumia Solutions Holding,552102781,ORG0019,NO,Professional services,2018-12-13
+ORG0139,Sydstrand BV,558182547,,SE,Energy,2020-01-06
+ORG0140,Nordlund AB,558611584,,SE,Logistics,2021-11-30
+ORG0141,Nordstrand BV,555303119,,FI,Construction,2022-01-22
+ORG0142,Nordstrand AB,553495064,,SE,Professional services,2021-08-23
+ORG0143,Vinterberg Industri Nordic,557539621,ORG0014,SE,Manufacturing,2020-06-26
+ORG0144,Kustbanken Nederland BV,556186762,ORG0008,NL,Construction,2019-05-22
+ORG0145,Vastdal BV,553324594,,SE,Construction,2021-07-19
+ORG0146,Sydstrand BV,552109906,,SE,Logistics,2019-08-10
+ORG0147,Bergkraft Service AB,558892063,ORG0005,NO,Public sector,2018-01-01
+ORG0148,Solbacka Skola Holding,553789957,ORG0023,SE,Construction,2022-03-18
+ORG0149,Granstad Kommun Nederland BV,555362671,ORG0009,SE,Healthcare,2021-07-20
+ORG0150,Tundra Analytics Nederland BV,552525495,ORG0022,SE,Professional services,2019-08-26

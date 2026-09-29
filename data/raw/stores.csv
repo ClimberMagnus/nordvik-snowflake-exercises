@@ -1,0 +1,16 @@
+BUTIK_ID,BUTIK_NAMN,LAND,STAD,OPPNAD,STANGD,BUTIK_TYP
+S01,Nordvik Stockholm Kungsgatan,SE,Stockholm,2019-03-01,,STORE
+S02,Nordvik Stockholm Sodermalm,SE,Stockholm,2021-09-01,,STORE
+S03,Nordvik Goteborg,SE,Goteborg,2018-05-01,,STORE
+S04,Nordvik Malmo,SE,Malmo,2020-02-01,,STORE
+S05,Nordvik Uppsala,SE,Uppsala,2025-09-15,,STORE
+S06,Nordvik Linkoping Outlet,SE,Linkoping,2022-04-01,,OUTLET
+S07,Nordvik Oslo,NO,Oslo,2019-08-01,,STORE
+S08,Nordvik Bergen,NO,Bergen,2021-03-01,,STORE
+S09,Nordvik Trondheim,NO,Trondheim,2025-11-01,,STORE
+S10,Nordvik Helsinki,FI,Helsinki,2020-06-01,,STORE
+S11,Nordvik Tampere,FI,Tampere,2022-10-01,,STORE
+S12,Nordvik Amsterdam,NL,Amsterdam,2021-05-01,,STORE
+S13,Nordvik Rotterdam,NL,Rotterdam,2023-03-01,,STORE
+S14,Nordvik Utrecht Pop-up,NL,Utrecht,2025-06-01,2026-03-31,POPUP
+S15,Nordvik Goteborg Outlet,SE,Goteborg,2019-10-01,2024-12-31,OUTLET

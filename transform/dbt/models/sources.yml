@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: nordvik_raw
+    description: >
+      Raw extracts from the Nordvik order system, loaded as-is. Column names are the
+      original Swedish ERP abbreviations. Nothing here is cleaned. See
+      data/docs/01_nordvik_business_and_reporting_handbook.md for the decode.
+    # database comes from the target profile (NORDVIK on Snowflake)
+    schema: RAW
+    tables:
+      - name: customers
+      - name: b2b_accounts
+      - name: products
+      - name: product_category_history
+      - name: stores
+      - name: orders
+      - name: order_lines
+      - name: returns
+      - name: subscriptions
+      - name: fx_rates
+      - name: budget
+      - name: calendar
+      - name: support_tickets
+        description: Support tickets and product reviews, for Cortex Search.

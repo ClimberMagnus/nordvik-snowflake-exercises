@@ -1,0 +1,15 @@
+# Copy to ~/.dbt/profiles.yml and fill in. Key-pair auth, not passwords.
+nordvik:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: <org>-<account>
+      user: <TRAINING_USER>
+      private_key_path: ~/.ssh/snowflake_key.p8
+      role: NORDVIK_TRAINING
+      database: NORDVIK
+      warehouse: NORDVIK_WH
+      schema: DBT_<your initials>
+      threads: 8
+      client_session_keep_alive: false

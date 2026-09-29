@@ -1,0 +1,201 @@
+TICKET_ID,DATUM,KUNDNR,KANAL,ART_NR,AMNE,BETYG,TEXT
+T00001,2023-06-12,K100815,PHONE,ART00030,Care subscription - pause,,Can the Care subscription be transferred if I sell the bike?
+T00002,2023-06-19,K101089,CHAT,,Care subscription - pause,,What is the difference between Care Plus and Care Pro? The website is not clear on whether Pro includes the annual service.
+T00003,2023-06-23,K100902,REVIEW,ART00181,Review: Fjellheim Strand Light 500,2,Trousers are far too long for the stated size. Returning for the shorter leg length if you have it.
+T00004,2023-07-01,K102417,EMAIL,ART00034,Wrong delivery address,,I ordered two jackets and received one. The invoice lists both.
+T00005,2023-07-02,K100470,PHONE,ART00185,Product fault,,Chain guard bolt sheared after six months. Is that covered?
+T00006,2023-07-12,K100661,EMAIL,ART00078,Guest order not found,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00007,2023-07-14,K101390,REVIEW,ART00134,Review: Terra Trail Pro 900,5,Second season on this and it still looks new. Worth the money.
+T00008,2023-07-21,K102962,EMAIL,ART00014,Product fault,,Zip pull came off the tent bag on the second use.
+T00009,2023-07-24,K101082,EMAIL,ART00067,Return - fit,,Lovely jacket but the fit is very slim. Order a size up.
+T00010,2023-07-25,K100415,REVIEW,ART00144,Review: Fjellheim Nord Light 100,4,"Perfect for weekend trips. Light, packs small, and the poles are solid."
+T00011,2023-08-08,K102826,PHONE,,Warranty claim,,Zip pull came off the tent bag on the second use.
+T00012,2023-08-11,K100474,REVIEW,ART00240,Review: Aurora Stig XT 600,5,"Warm, light, and it survived a week in Lofoten in the rain."
+T00013,2023-08-27,K101168,EMAIL,ART00197,Duplicate payment,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00014,2023-09-13,K100642,CHAT,,Damaged on arrival,,Delivered to the wrong address. The carrier says it was signed for. I did not sign for it.
+T00015,2023-09-15,K101586,CHAT,ART00095,Wrong delivery address,,The parcel arrived with the box crushed and one pole of the tent bent. Sending it back.
+T00016,2023-09-21,K100853,REVIEW,ART00231,Review: Terra Vidda XT 500,5,Good value. Not the most refined finish but it does the job.
+T00017,2023-10-03,K102255,CHAT,ART00174,Care billing,,I want to pause my Nordvik Care subscription over the winter. Can I do that without cancelling?
+T00018,2023-10-05,K101367,PHONE,,Spare part request,,Zip pull came off the tent bag on the second use.
+T00019,2023-10-07,K100492,EMAIL,ART00075,Sizing,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00020,2023-10-09,K101317,EMAIL,,Care tiers,,Can the Care subscription be transferred if I sell the bike?
+T00021,2023-10-20,K100830,PHONE,ART00262,Store waiting time,,The workshop in Amsterdam repaired a wheel for me at no charge because it was still under warranty. Very good experience.
+T00022,2023-10-27,K101855,EMAIL,ART00069,Size chart wrong,,Trousers are far too long for the stated size. Returning for the shorter leg length if you have it.
+T00023,2023-11-03,K102444,PHONE,ART00091,Delivery delayed,,The parcel arrived with the box crushed and one pole of the tent bent. Sending it back.
+T00024,2023-11-06,K101061,REVIEW,ART00075,Review: Nordvik Skog 400,5,Best purchase I have made this year. The battery range is better than advertised.
+T00025,2023-11-11,K100843,EMAIL,ART00274,Wrong delivery address,,Delivered to the wrong address. The carrier says it was signed for. I did not sign for it.
+T00026,2023-11-26,K102959,CHAT,ART00065,Sizing,,The jacket runs at least one size small. I usually take a medium and the medium is tight across the shoulders.
+T00027,2023-12-23,K100336,CHAT,ART00108,Size chart wrong,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00028,2024-01-01,K101432,EMAIL,ART00131,Duplicate payment,,The site logged me out during payment and I think the order went through twice. Please check before shipping.
+T00029,2024-01-02,K100217,EMAIL,ART00119,Size chart wrong,,Lovely jacket but the fit is very slim. Order a size up.
+T00030,2024-01-16,K101366,CHAT,ART00132,Size chart wrong,,Lovely jacket but the fit is very slim. Order a size up.
+T00031,2024-01-17,K100457,CHAT,ART00066,Return - fit,,Trousers are far too long for the stated size. Returning for the shorter leg length if you have it.
+T00032,2024-01-18,K100407,PHONE,,Product fault,,The stove valve leaks. It has been used twice.
+T00033,2024-01-22,K102660,EMAIL,ART00270,Store feedback,,The workshop in Amsterdam repaired a wheel for me at no charge because it was still under warranty. Very good experience.
+T00034,2024-01-23,K100228,CHAT,,Discount code,,"I do not have an account because I checked out as a guest, so the returns form will not accept my order. How do I return this?"
+T00035,2024-01-27,K101756,EMAIL,,Duplicate payment,,"I do not have an account because I checked out as a guest, so the returns form will not accept my order. How do I return this?"
+T00036,2024-02-06,K101398,REVIEW,ART00285,Review: Aurora Stig Light 200,5,"Warm, light, and it survived a week in Lofoten in the rain."
+T00037,2024-02-11,K100698,EMAIL,,Store waiting time,,Excellent service in the Oslo store. The person who fitted my rack took real time over it.
+T00038,2024-02-18,K100543,CHAT,ART00254,Care subscription - pause,,Cancelled my Care subscription last month but I can still book workshop slots. Is that intended?
+T00039,2024-02-20,K100373,CHAT,,Care subscription - pause,,What is the difference between Care Plus and Care Pro? The website is not clear on whether Pro includes the annual service.
+T00040,2024-02-25,K101963,EMAIL,ART00123,Discount code,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00041,2024-02-28,K101873,CHAT,ART00114,Return - fit,,Trousers are far too long for the stated size. Returning for the shorter leg length if you have it.
+T00042,2024-03-03,K100139,CHAT,,Guest order not found,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00043,2024-03-07,K102416,CHAT,,Care tiers,,I paused my Care subscription in October and I am still being charged. Please check.
+T00044,2024-03-20,K102167,PHONE,ART00087,Care cancellation,,I paused my Care subscription in October and I am still being charged. Please check.
+T00045,2024-03-24,K101860,EMAIL,ART00134,Service after pop-up closure,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00046,2024-03-29,K100835,EMAIL,ART00105,Sizing,,The jacket runs at least one size small. I usually take a medium and the medium is tight across the shoulders.
+T00047,2024-04-18,K100780,CHAT,,Discount code,,"I do not have an account because I checked out as a guest, so the returns form will not accept my order. How do I return this?"
+T00048,2024-04-27,K102458,REVIEW,ART00240,Review: Aurora Stig XT 600,5,"Warm, light, and it survived a week in Lofoten in the rain."
+T00049,2024-05-03,K101568,REVIEW,ART00068,Review: Fjellheim Tind XT 400,4,"Warm, light, and it survived a week in Lofoten in the rain."
+T00050,2024-05-11,K101659,EMAIL,ART00030,Care tiers,,I paused my Care subscription in October and I am still being charged. Please check.
+T00051,2024-05-13,K101390,PHONE,ART00136,Store feedback,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00052,2024-05-14,K100051,PHONE,ART00077,Store feedback,,Excellent service in the Oslo store. The person who fitted my rack took real time over it.
+T00053,2024-05-22,K102866,EMAIL,,Store waiting time,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00054,2024-05-28,K102537,REVIEW,ART00240,Review: Aurora Stig XT 600,4,"Warm, light, and it survived a week in Lofoten in the rain."
+T00055,2024-06-17,K101967,PHONE,,Warranty claim,,Zip pull came off the tent bag on the second use.
+T00056,2024-06-24,K100556,REVIEW,ART00001,Review: Nordvik Fjell 500,3,Need a replacement buckle for the pannier. Do you sell them separately?
+T00057,2024-06-29,K101760,REVIEW,ART00038,Review: Aurora Myr Light 100,4,Good value. Not the most refined finish but it does the job.
+T00058,2024-07-11,K100857,REVIEW,ART00012,Review: Fjellheim Glim XT 300,5,Good value. Not the most refined finish but it does the job.
+T00059,2024-07-28,K100247,REVIEW,ART00108,Review: Aurora Nord Light 900,2,Trousers are far too long for the stated size. Returning for the shorter leg length if you have it.
+T00060,2024-08-14,K101464,EMAIL,ART00069,Size chart wrong,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00061,2024-08-20,K100355,PHONE,ART00014,Spare part request,,Zip pull came off the tent bag on the second use.
+T00062,2024-08-24,K102702,REVIEW,ART00252,Review: Fjellheim Strand Pro 900,4,"Warm, light, and it survived a week in Lofoten in the rain."
+T00063,2024-09-18,K101220,CHAT,ART00059,Care cancellation,,What is the difference between Care Plus and Care Pro? The website is not clear on whether Pro includes the annual service.
+T00064,2024-09-21,K101730,EMAIL,ART00006,Service after pop-up closure,,Excellent service in the Oslo store. The person who fitted my rack took real time over it.
+T00065,2024-09-28,K102377,REVIEW,ART00240,Review: Aurora Stig XT 600,5,Good value. Not the most refined finish but it does the job.
+T00066,2024-10-02,K100808,PHONE,ART00098,Spare part request,,Zip pull came off the tent bag on the second use.
+T00067,2024-10-04,K100170,EMAIL,ART00091,Return - fit,,Lovely jacket but the fit is very slim. Order a size up.
+T00068,2024-10-10,K102429,PHONE,ART00094,Wrong delivery address,,Delivered to the wrong address. The carrier says it was signed for. I did not sign for it.
+T00069,2024-10-12,K101744,CHAT,ART00153,Care subscription - pause,,I want to pause my Nordvik Care subscription over the winter. Can I do that without cancelling?
+T00070,2024-10-21,K101937,EMAIL,,Care billing,,Can the Care subscription be transferred if I sell the bike?
+T00071,2024-10-22,K100730,EMAIL,ART00245,Store feedback,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00072,2024-10-28,K102722,CHAT,ART00098,Sizing,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00073,2024-10-30,K102833,PHONE,,Store waiting time,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00074,2024-11-17,K102927,EMAIL,,Service after pop-up closure,,Excellent service in the Oslo store. The person who fitted my rack took real time over it.
+T00075,2024-12-19,K102869,EMAIL,ART00134,Damaged on arrival,,Delivered to the wrong address. The carrier says it was signed for. I did not sign for it.
+T00076,2024-12-20,K102953,REVIEW,ART00179,Review: Nordvik Myr XT 200,3,The jacket runs at least one size small. I usually take a medium and the medium is tight across the shoulders.
+T00077,2024-12-21,K102235,EMAIL,ART00085,Care subscription - pause,,Cancelled my Care subscription last month but I can still book workshop slots. Is that intended?
+T00078,2024-12-29,K100967,PHONE,,Product fault,,The stove valve leaks. It has been used twice.
+T00079,2025-01-03,K102062,EMAIL,ART00228,Care tiers,,Can the Care subscription be transferred if I sell the bike?
+T00080,2025-01-05,K102515,REVIEW,ART00270,Review: Vinterled Trail 300,5,Best purchase I have made this year. The battery range is better than advertised.
+T00081,2025-01-08,K100559,CHAT,,Discount code,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00082,2025-02-21,K102991,PHONE,,Care billing,,I paused my Care subscription in October and I am still being charged. Please check.
+T00083,2025-03-01,K101286,REVIEW,ART00170,Review: Fjellheim Bre XT 900,4,Best purchase I have made this year. The battery range is better than advertised.
+T00084,2025-03-03,K101556,CHAT,ART00067,Return - fit,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00085,2025-03-10,K102782,REVIEW,ART00138,Review: Terra Ranger 100,5,Second season on this and it still looks new. Worth the money.
+T00086,2025-03-21,K101821,CHAT,ART00129,Sizing,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00087,2025-03-31,K100526,REVIEW,ART00166,Review: Vinterled Ranger Pro 200,5,Second season on this and it still looks new. Worth the money.
+T00088,2025-04-13,K101169,CHAT,ART00219,Discount code,,The site logged me out during payment and I think the order went through twice. Please check before shipping.
+T00089,2025-04-24,K101263,CHAT,ART00132,Size chart wrong,,Lovely jacket but the fit is very slim. Order a size up.
+T00090,2025-04-28,K101401,EMAIL,,Return without account,,"I do not have an account because I checked out as a guest, so the returns form will not accept my order. How do I return this?"
+T00091,2025-05-01,K102530,EMAIL,,Guest order not found,,"I do not have an account because I checked out as a guest, so the returns form will not accept my order. How do I return this?"
+T00092,2025-05-09,K102776,PHONE,ART00259,Spare part request,,Need a replacement buckle for the pannier. Do you sell them separately?
+T00093,2025-05-12,K100178,PHONE,ART00045,Wrong delivery address,,The parcel arrived with the box crushed and one pole of the tent bent. Sending it back.
+T00094,2025-05-12,K102567,REVIEW,ART00077,Review: Terra Frost Pro 900,5,Second season on this and it still looks new. Worth the money.
+T00095,2025-05-16,K100432,CHAT,,Care subscription - pause,,I paused my Care subscription in October and I am still being charged. Please check.
+T00096,2025-06-01,K100009,PHONE,,Store feedback,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00097,2025-06-20,K102266,PHONE,,Service after pop-up closure,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00098,2025-07-10,K102205,EMAIL,ART00113,Return - fit,,The jacket runs at least one size small. I usually take a medium and the medium is tight across the shoulders.
+T00099,2025-07-25,K100109,PHONE,,Service after pop-up closure,,The workshop in Amsterdam repaired a wheel for me at no charge because it was still under warranty. Very good experience.
+T00100,2025-08-07,K101535,REVIEW,ART00191,Review: Nordvik Bre XT 600,5,"Warm, light, and it survived a week in Lofoten in the rain."
+T00101,2025-08-08,K100164,CHAT,ART00254,Discount code,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00102,2025-08-08,K100588,CHAT,,Discount code,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00103,2025-08-20,K101309,EMAIL,ART00103,Service after pop-up closure,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00104,2025-08-30,K100386,PHONE,,Delivery delayed,,Delivered to the wrong address. The carrier says it was signed for. I did not sign for it.
+T00105,2025-09-01,K102246,EMAIL,,Store feedback,,The Utrecht pop-up has closed and I bought my bike there. Where do I take it for service now?
+T00106,2025-09-02,K102903,EMAIL,,Guest order not found,,Checked out as a guest and now I cannot find my order anywhere. There is no order number in my email.
+T00107,2025-09-06,K102531,PHONE,ART00214,Wrong delivery address,,"Order placed two weeks ago, still no tracking. The webshop says shipped but nothing has moved."
+T00108,2025-09-07,K100008,EMAIL,,Missing item,,"Order placed two weeks ago, still no tracking. The webshop says shipped but nothing has moved."
+T00109,2025-09-09,K101090,EMAIL,,Product fault,,Zip pull came off the tent bag on the second use.
+T00110,2025-09-10,K102729,PHONE,ART00051,Delivery delayed,,I ordered two jackets and received one. The invoice lists both.
+T00111,2025-09-11,K102594,PHONE,,Store feedback,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00112,2025-09-19,K100555,EMAIL,ART00171,Guest order not found,,The site logged me out during payment and I think the order went through twice. Please check before shipping.
+T00113,2025-09-19,K100913,PHONE,ART00212,Spare part request,,Chain guard bolt sheared after six months. Is that covered?
+T00114,2025-09-20,K100110,EMAIL,ART00183,Wrong delivery address,,"Order placed two weeks ago, still no tracking. The webshop says shipped but nothing has moved."
+T00115,2025-09-21,K102363,EMAIL,,Return without account,,The site logged me out during payment and I think the order went through twice. Please check before shipping.
+T00116,2025-10-01,K102480,PHONE,,Wrong delivery address,,The parcel arrived with the box crushed and one pole of the tent bent. Sending it back.
+T00117,2025-10-09,K101620,REVIEW,ART00215,Review: Nordvik Frost Light 200,4,Best purchase I have made this year. The battery range is better than advertised.
+T00118,2025-10-31,K102041,PHONE,,Store waiting time,,The Utrecht pop-up has closed and I bought my bike there. Where do I take it for service now?
+T00119,2025-11-04,K101065,EMAIL,,Care tiers,,I want to pause my Nordvik Care subscription over the winter. Can I do that without cancelling?
+T00120,2025-11-04,K101974,EMAIL,ART00095,Store feedback,,Excellent service in the Oslo store. The person who fitted my rack took real time over it.
+T00121,2025-11-17,K100652,REVIEW,ART00014,Review: Terra Tind Light 400,3,Chain guard bolt sheared after six months. Is that covered?
+T00122,2025-11-27,K101543,EMAIL,,Care cancellation,,I paused my Care subscription in October and I am still being charged. Please check.
+T00123,2025-12-08,K100212,REVIEW,ART00284,Review: Vinterled Stig 300,4,"Perfect for weekend trips. Light, packs small, and the poles are solid."
+T00124,2025-12-11,K100054,REVIEW,ART00035,Review: Fjellheim Ranger 900,5,Good value. Not the most refined finish but it does the job.
+T00125,2025-12-16,K101599,EMAIL,ART00001,Rattle from battery area,,The bracket that holds the battery to the frame has cracked. I noticed a rattle after about three weeks and now there is a visible split in the plastic around the lower screw. The bike is six weeks old.
+T00126,2025-12-17,K102262,EMAIL,ART00087,Sizing,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00127,2025-12-17,K100248,PHONE,ART00011,Service after pop-up closure,,The Utrecht pop-up has closed and I bought my bike there. Where do I take it for service now?
+T00128,2025-12-19,K101163,EMAIL,ART00124,Size chart wrong,,The jacket runs at least one size small. I usually take a medium and the medium is tight across the shoulders.
+T00129,2025-12-22,K102397,EMAIL,ART00001,Battery housing noise,,Rattling from the battery housing since the first week. The workshop in Gothenburg says the mount bracket is a known weak point and they are waiting for parts.
+T00130,2026-01-07,K100267,PHONE,,Spare part request,,Need a replacement buckle for the pannier. Do you sell them separately?
+T00131,2026-01-08,K101207,CHAT,ART00001,Rattle from battery area,,Bought this in November as a Christmas present. By March the battery mount had cracked and the battery was moving in the frame. Very disappointed for the price.
+T00132,2026-01-10,K102684,EMAIL,ART00240,Warranty claim,,Zip pull came off the tent bag on the second use.
+T00133,2026-01-11,K100051,CHAT,ART00001,Noise when riding,,Rattling from the battery housing since the first week. The workshop in Gothenburg says the mount bracket is a known weak point and they are waiting for parts.
+T00134,2026-01-20,K102504,EMAIL,ART00069,Sizing,,The jacket runs at least one size small. I usually take a medium and the medium is tight across the shoulders.
+T00135,2026-01-22,K101819,EMAIL,ART00127,Size chart wrong,,Lovely jacket but the fit is very slim. Order a size up.
+T00136,2026-01-24,K100541,EMAIL,ART00001,Rattle from battery area,,Bought this in November as a Christmas present. By March the battery mount had cracked and the battery was moving in the frame. Very disappointed for the price.
+T00137,2026-01-28,K102792,CHAT,ART00001,Battery housing noise,,"Battery came loose while riding over a kerb. It did not fall off completely but the mount is clearly broken. This feels like a safety issue and I would like a replacement bike, not a repair."
+T00138,2026-02-05,K100783,PHONE,ART00001,Warranty claim - battery mount,,"Mount broken. Battery moves several millimetres when riding. Store says return it. I want to know whether the replacement has the same bracket, because if so I would rather have a refund."
+T00139,2026-02-10,K102749,PHONE,ART00001,Safety concern - battery bracket,,"Battery rattles badly on cobbles. Workshop confirmed the mount is cracked. Third one they have seen this month, they said."
+T00140,2026-02-11,K100790,EMAIL,ART00001,Battery loose in frame,,The bracket that holds the battery to the frame has cracked. I noticed a rattle after about three weeks and now there is a visible split in the plastic around the lower screw. The bike is six weeks old.
+T00141,2026-02-16,K101354,EMAIL,ART00001,Battery mount failure,,"Battery came loose while riding over a kerb. It did not fall off completely but the mount is clearly broken. This feels like a safety issue and I would like a replacement bike, not a repair."
+T00142,2026-02-18,K102979,EMAIL,ART00001,Battery mount failure,,"Battery came loose while riding over a kerb. It did not fall off completely but the mount is clearly broken. This feels like a safety issue and I would like a replacement bike, not a repair."
+T00143,2026-02-19,K102720,CHAT,ART00001,Battery mount cracked,,"Hi, the plastic lug on the battery mount snapped off when I removed the battery to charge it. It did not take any force at all."
+T00144,2026-02-23,K101964,PHONE,ART00001,Warranty claim - battery mount,,Rattling from the battery housing since the first week. The workshop in Gothenburg says the mount bracket is a known weak point and they are waiting for parts.
+T00145,2026-02-26,K101535,PHONE,ART00001,Battery mount cracked,,"Mount broken. Battery moves several millimetres when riding. Store says return it. I want to know whether the replacement has the same bracket, because if so I would rather have a refund."
+T00146,2026-02-26,K101545,PHONE,ART00175,Spare part request,,Chain guard bolt sheared after six months. Is that covered?
+T00147,2026-02-28,K101091,REVIEW,ART00133,Review: Terra Kust Pro 500,4,"Perfect for weekend trips. Light, packs small, and the poles are solid."
+T00148,2026-03-01,K100037,EMAIL,,Care subscription - pause,,Can the Care subscription be transferred if I sell the bike?
+T00149,2026-03-03,K102571,EMAIL,ART00001,Battery loose in frame,,The bracket that holds the battery to the frame has cracked. I noticed a rattle after about three weeks and now there is a visible split in the plastic around the lower screw. The bike is six weeks old.
+T00150,2026-03-04,K101355,EMAIL,ART00001,Warranty claim - battery mount,,"Battery rattles badly on cobbles. Workshop confirmed the mount is cracked. Third one they have seen this month, they said."
+T00151,2026-03-06,K100405,PHONE,ART00001,Battery mount failure,,The battery mount failed after two months of commuting. I have returned the bike to the Helsinki store. I would like confirmation of the refund.
+T00152,2026-03-07,K101786,PHONE,ART00001,Battery mount cracked,,"Battery rattles badly on cobbles. Workshop confirmed the mount is cracked. Third one they have seen this month, they said."
+T00153,2026-03-09,K102624,PHONE,ART00001,Battery loose in frame,,Bought this in November as a Christmas present. By March the battery mount had cracked and the battery was moving in the frame. Very disappointed for the price.
+T00154,2026-03-10,K102874,EMAIL,ART00139,Warranty claim,,Zip pull came off the tent bag on the second use.
+T00155,2026-03-11,K101795,EMAIL,ART00001,Battery loose in frame,,The battery mount has sheared. I have attached a photo. I have owned e-bikes for nine years and never seen a mount fail like this.
+T00156,2026-03-11,K102026,EMAIL,ART00175,Guest order not found,,"I do not have an account because I checked out as a guest, so the returns form will not accept my order. How do I return this?"
+T00157,2026-03-12,K100066,PHONE,ART00001,Battery loose in frame,,Fjell 500 battery mount broken again after the repair. The replacement part appears to be the same design. Please advise.
+T00158,2026-03-13,K100621,EMAIL,ART00001,Battery mount failure,,The bracket that holds the battery to the frame has cracked. I noticed a rattle after about three weeks and now there is a visible split in the plastic around the lower screw. The bike is six weeks old.
+T00159,2026-03-14,K102866,EMAIL,ART00001,Safety concern - battery bracket,,The battery mount failed after two months of commuting. I have returned the bike to the Helsinki store. I would like confirmation of the refund.
+T00160,2026-03-15,K100265,CHAT,ART00001,Safety concern - battery bracket,,Second Fjell 500 in our household with the same fault. The lower battery mount fails. Both bought in December. Is there a recall?
+T00161,2026-03-15,K101430,CHAT,ART00001,Safety concern - battery bracket,,"Battery came loose while riding over a kerb. It did not fall off completely but the mount is clearly broken. This feels like a safety issue and I would like a replacement bike, not a repair."
+T00162,2026-03-16,K102861,PHONE,ART00032,Care cancellation,,What is the difference between Care Plus and Care Pro? The website is not clear on whether Pro includes the annual service.
+T00163,2026-03-18,K102226,EMAIL,ART00001,Battery loose in frame,,Is there a fix for the battery mount on the Fjell 500? Mine has hairline cracks around both lower screws. Not loose yet but I do not trust it.
+T00164,2026-03-21,K102057,EMAIL,ART00001,Warranty claim - battery mount,,The bracket that holds the battery to the frame has cracked. I noticed a rattle after about three weeks and now there is a visible split in the plastic around the lower screw. The bike is six weeks old.
+T00165,2026-03-24,K100442,PHONE,ART00001,Battery mount failure,,The bracket that holds the battery to the frame has cracked. I noticed a rattle after about three weeks and now there is a visible split in the plastic around the lower screw. The bike is six weeks old.
+T00166,2026-03-24,K102223,EMAIL,ART00001,Battery mount failure,,The battery mount has sheared. I have attached a photo. I have owned e-bikes for nine years and never seen a mount fail like this.
+T00167,2026-03-25,K101778,EMAIL,ART00001,Battery loose in frame,,Is there a fix for the battery mount on the Fjell 500? Mine has hairline cracks around both lower screws. Not loose yet but I do not trust it.
+T00168,2026-03-26,K102529,CHAT,ART00001,Safety concern - battery bracket,,"Mount broken. Battery moves several millimetres when riding. Store says return it. I want to know whether the replacement has the same bracket, because if so I would rather have a refund."
+T00169,2026-03-26,K102286,EMAIL,ART00079,Return - fit,,The jacket runs at least one size small. I usually take a medium and the medium is tight across the shoulders.
+T00170,2026-03-27,K100809,CHAT,ART00001,Battery mount cracked,,The bracket that holds the battery to the frame has cracked. I noticed a rattle after about three weeks and now there is a visible split in the plastic around the lower screw. The bike is six weeks old.
+T00171,2026-03-28,K100792,CHAT,ART00001,Safety concern - battery bracket,,"Mount broken. Battery moves several millimetres when riding. Store says return it. I want to know whether the replacement has the same bracket, because if so I would rather have a refund."
+T00172,2026-03-28,K102110,CHAT,ART00001,Warranty claim - battery mount,,"Hi, the plastic lug on the battery mount snapped off when I removed the battery to charge it. It did not take any force at all."
+T00173,2026-03-29,K100106,PHONE,ART00001,Safety concern - battery bracket,,Is there a fix for the battery mount on the Fjell 500? Mine has hairline cracks around both lower screws. Not loose yet but I do not trust it.
+T00174,2026-03-31,K102857,PHONE,ART00001,Warranty claim - battery mount,,Bought this in November as a Christmas present. By March the battery mount had cracked and the battery was moving in the frame. Very disappointed for the price.
+T00175,2026-04-04,K100251,PHONE,ART00001,Battery loose in frame,,Second Fjell 500 in our household with the same fault. The lower battery mount fails. Both bought in December. Is there a recall?
+T00176,2026-04-05,K102500,EMAIL,ART00001,Battery loose in frame,,Is there a fix for the battery mount on the Fjell 500? Mine has hairline cracks around both lower screws. Not loose yet but I do not trust it.
+T00177,2026-04-06,K100438,CHAT,ART00001,Battery loose in frame,,Is there a fix for the battery mount on the Fjell 500? Mine has hairline cracks around both lower screws. Not loose yet but I do not trust it.
+T00178,2026-04-06,K102580,PHONE,ART00001,Warranty claim - battery mount,,Fjell 500 battery mount broken again after the repair. The replacement part appears to be the same design. Please advise.
+T00179,2026-04-10,K100787,PHONE,ART00001,Battery mount cracked,,The battery mount failed after two months of commuting. I have returned the bike to the Helsinki store. I would like confirmation of the refund.
+T00180,2026-04-10,K100547,EMAIL,ART00001,Safety concern - battery bracket,,"Battery rattles badly on cobbles. Workshop confirmed the mount is cracked. Third one they have seen this month, they said."
+T00181,2026-04-10,K100523,EMAIL,ART00103,Spare part request,,The stove valve leaks. It has been used twice.
+T00182,2026-04-12,K101818,EMAIL,ART00001,Safety concern - battery bracket,,Rattling from the battery housing since the first week. The workshop in Gothenburg says the mount bracket is a known weak point and they are waiting for parts.
+T00183,2026-04-19,K101648,PHONE,ART00001,Battery mount failure,,Is there a fix for the battery mount on the Fjell 500? Mine has hairline cracks around both lower screws. Not loose yet but I do not trust it.
+T00184,2026-04-20,K102373,PHONE,,Wrong delivery address,,I ordered two jackets and received one. The invoice lists both.
+T00185,2026-04-22,K102275,CHAT,ART00065,Sizing,,Lovely jacket but the fit is very slim. Order a size up.
+T00186,2026-05-04,K100127,REVIEW,ART00220,Review: Fjellheim Stig XT 600,4,Best purchase I have made this year. The battery range is better than advertised.
+T00187,2026-05-07,K102185,EMAIL,ART00012,Warranty claim,,Need a replacement buckle for the pannier. Do you sell them separately?
+T00188,2026-05-20,K101311,EMAIL,,Care billing,,Can the Care subscription be transferred if I sell the bike?
+T00189,2026-05-22,K102040,REVIEW,ART00021,Review: Aurora Stig XT 200,4,Second season on this and it still looks new. Worth the money.
+T00190,2026-05-23,K100644,REVIEW,ART00169,Review: Fjellheim Vidda Pro 600,3,Trousers are far too long for the stated size. Returning for the shorter leg length if you have it.
+T00191,2026-06-07,K101471,EMAIL,ART00050,Care billing,,What is the difference between Care Plus and Care Pro? The website is not clear on whether Pro includes the annual service.
+T00192,2026-06-17,K102908,REVIEW,ART00284,Review: Vinterled Stig 300,3,The stove valve leaks. It has been used twice.
+T00193,2026-06-21,K102306,REVIEW,ART00232,Review: Nordvik Vidda 900,5,Good value. Not the most refined finish but it does the job.
+T00194,2026-06-27,K102118,PHONE,,Service after pop-up closure,,Waited forty minutes in the Stockholm store on a Saturday with two staff on the floor. Consider more people at weekends.
+T00195,2026-07-23,K100331,CHAT,ART00083,Size chart wrong,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00196,2026-08-03,K102607,REVIEW,ART00029,Review: Aurora Vidda 600,4,"Perfect for weekend trips. Light, packs small, and the poles are solid."
+T00197,2026-08-05,K102338,CHAT,ART00107,Sizing,,"Sizing chart on the website does not match the garment. Please update it, this is the second return for the same reason."
+T00198,2026-08-07,K100875,PHONE,ART00062,Damaged on arrival,,I ordered two jackets and received one. The invoice lists both.
+T00199,2026-08-18,K102430,REVIEW,ART00253,Review: Fjellheim Ranger 400,5,"Warm, light, and it survived a week in Lofoten in the rain."
+T00200,2026-08-23,K102482,EMAIL,ART00195,Spare part request,,The stove valve leaks. It has been used twice.

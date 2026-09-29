@@ -1,0 +1,301 @@
+ART_NR,ART_NAMN,KATEGORI,UNDERKAT,VARUMARKE,INKOPSPRIS,LISTPRIS,LANSERING,AKTIV
+ART00001,Nordvik Fjell 500,E-Bikes,E-bikes,Fjellheim,17400,32900,2025-10-29,Y
+ART00002,Fjellheim Kust Pro 200,E-bike,E-bikes,Vinterled,11410,24150,2024-11-17,N
+ART00003,Vinterled Vidda Light 100,E-bikes,E-bikes,Vinterled,6630,13100,2019-04-18,Y
+ART00004,Nordvik Tind Pro 900,E-bikes,E-bikes,Nordvik,14630,33590,2022-03-15,Y
+ART00005,Fjellheim Myr Light 900,E-Bikes,E-bikes,Vinterled,11530,22030,2020-10-02,Y
+ART00006,Terra Glim Light 200,E-bikes,E-bikes,Vinterled,23210,43220,2020-09-28,Y
+ART00007,Vinterled Tind Light 500,E-Bikes,E-bikes,Aurora,7010,15330,2019-05-03,Y
+ART00008,Fjellheim Frost 900,E-bikes,E-bikes,Nordvik,19650,44420,2024-11-12,Y
+ART00009,Fjellheim Bre XT 400,Elcykel,E-bikes,Terra,19530,31020,2023-01-19,Y
+ART00010,Terra Nord 400,E-bike,E-bikes,Aurora,15600,25600,2024-01-07,N
+ART00011,Aurora Vidda Light 100,E-bikes,E-bikes,Vinterled,10100,16300,2020-12-17,Y
+ART00012,Fjellheim Glim XT 300,E-bikes,E-bikes,Vinterled,18050,32510,2020-03-04,Y
+ART00013,Nordvik Skog Light 600,E-bikes,E-bikes,Nordvik,20170,43530,2018-10-28,N
+ART00014,Terra Tind Light 400,E-bikes,E-bikes,Fjellheim,10150,22750,2025-11-21,Y
+ART00015,Aurora Stig XT 900,E-bikes,E-bikes,Nordvik,22240,40580,2022-07-28,Y
+ART00016,Fjellheim Fjell 300,E-bikes,E-bikes,Aurora,21510,38150,2020-01-28,Y
+ART00017,Nordvik Skog 400,E-bikes,E-bikes,Terra,8440,13730,2020-02-05,Y
+ART00018,Terra Summit Light 500,E-bikes,E-bikes,Nordvik,8530,15750,2019-04-07,Y
+ART00019,Terra Myr Pro 900,E-bikes,E-bikes,Aurora,26360,40770,2021-07-06,N
+ART00020,Nordvik Trail 900,E-bikes,E-bikes,Terra,19210,40950,2026-04-09,Y
+ART00021,Aurora Stig XT 200,E-bike,E-bikes,Terra,12470,20470,2020-11-20,Y
+ART00022,Terra Nord XT 300,E-bikes,E-bikes,Aurora,16260,25900,2023-09-28,Y
+ART00023,Nordvik Fjell Light 500,E-bikes,E-bikes,Fjellheim,13730,27120,2021-01-12,Y
+ART00024,Aurora Vidda 100,E-bikes,E-bikes,Aurora,23480,39040,2025-02-04,Y
+ART00025,Vinterled Summit 900,E-bikes,E-bikes,Aurora,22210,45950,2021-09-06,Y
+ART00026,Nordvik Tind 300,Elcykel,E-bikes,Aurora,17080,40380,2020-08-01,Y
+ART00027,Terra Fjell Light 200,E-bikes,E-bikes,Nordvik,7830,14030,2025-10-05,Y
+ART00028,Fjellheim Skog Light 100,E-bikes,E-bikes,Nordvik,7180,15520,2024-01-16,N
+ART00029,Aurora Vidda 600,Bikes,Bikes,Terra,8220,12900,2021-09-12,Y
+ART00030,Vinterled Trail Pro 400,Bike,Bikes,Fjellheim,4930,7910,2021-10-27,Y
+ART00031,Vinterled Myr 400,Bikes,Bikes,Vinterled,8600,13910,2020-12-26,Y
+ART00032,Terra Kust Light 100,Bikes,Bikes,Aurora,11060,17770,2022-07-08,Y
+ART00033,Vinterled Strand Pro 900,Bikes,Bikes,Vinterled,7920,12890,2022-05-30,Y
+ART00034,Terra Myr Light 300,Bikes,Bikes,Terra,5460,11210,2023-12-04,Y
+ART00035,Fjellheim Ranger 900,Bikes,Bikes,Vinterled,5530,13150,2020-09-04,Y
+ART00036,Vinterled Fjell 200,Bikes,Bikes,Nordvik,6900,12490,2020-04-06,Y
+ART00037,Aurora Summit Light 900,Bikes,Bikes,Nordvik,5220,8470,2019-11-12,Y
+ART00038,Aurora Myr Light 100,Bike,Bikes,Fjellheim,7290,13310,2020-09-12,Y
+ART00039,Aurora Fjell Pro 500,Bikes,Bikes,Aurora,6290,10120,2022-01-01,Y
+ART00040,Nordvik Trail Pro 900,Bike,Bikes,Fjellheim,2150,4090,2022-08-25,Y
+ART00041,Nordvik Trail Light 300,Bike,Bikes,Aurora,6370,14620,2018-07-02,Y
+ART00042,Nordvik Tind Light 500,Bikes,Bikes,Aurora,6520,12020,2020-03-04,Y
+ART00043,Terra Nord 600,Bikes,Bikes,Fjellheim,2060,4770,2020-01-30,Y
+ART00044,Terra Glim XT 200,Bikes,Bikes,Terra,4080,8430,2021-12-10,N
+ART00045,Aurora Ranger 400,Bikes,Bikes,Terra,5580,9330,2018-06-06,Y
+ART00046,Vinterled Stig Pro 900,Bikes,Bikes,Nordvik,9650,18550,2021-03-14,Y
+ART00047,Terra Stig 500,Bikes,Bikes,Terra,8620,17600,2020-11-04,Y
+ART00048,Vinterled Glim 300,Bike,Bikes,Aurora,6760,12290,2024-11-15,Y
+ART00049,Aurora Myr Light 600,Bikes,Bikes,Fjellheim,3860,7890,2018-06-25,Y
+ART00050,Fjellheim Skog Pro 500,Cykel,Bikes,Nordvik,7770,12550,2018-10-02,Y
+ART00051,Terra Myr XT 100,Bikes,Bikes,Terra,3880,7790,2018-09-16,Y
+ART00052,Terra Trail 200,Bikes,Bikes,Fjellheim,7740,13440,2024-02-13,Y
+ART00053,Vinterled Frost 600,Bikes,Bikes,Terra,10410,18120,2020-06-24,Y
+ART00054,Terra Strand 900,Bikes,Bikes,Terra,2180,4320,2019-01-15,Y
+ART00055,Aurora Myr 100,Bike,Bikes,Nordvik,4650,8920,2026-04-08,Y
+ART00056,Aurora Tind XT 600,Bikes,Bikes,Fjellheim,7160,14890,2021-06-27,Y
+ART00057,Nordvik Kust XT 500,Bikes,Bikes,Terra,2550,5150,2022-04-22,Y
+ART00058,Aurora Vidda 200,Bikes,Bikes,Vinterled,6300,14950,2025-06-25,Y
+ART00059,Vinterled Myr XT 100,Bikes,Bikes,Aurora,4700,7730,2024-12-01,Y
+ART00060,Vinterled Frost Light 600,Bikes,Bikes,Fjellheim,8410,18420,2023-11-11,N
+ART00061,Terra Tind Light 100,Outdoor clothing,Outdoor,Terra,800,1670,2023-03-28,Y
+ART00062,Vinterled Vidda Pro 200,Outdoor Clothing,Outdoor,Aurora,1880,3920,2021-03-17,Y
+ART00063,Fjellheim Tind 600,Outdoor clothing,Outdoor,Fjellheim,2290,4600,2021-04-28,Y
+ART00064,Nordvik Tind Pro 600,Outdoor clothing,Outdoor,Terra,3050,4700,2020-11-19,Y
+ART00065,Fjellheim Frost 300,Outdoor clothing,Outdoor,Nordvik,540,840,2025-05-01,Y
+ART00066,Fjellheim Frost 200,Outdoor Clothing,Outdoor,Fjellheim,220,370,2021-03-08,Y
+ART00067,Aurora Kust Light 600,Outdoor clothing,Outdoor,Fjellheim,2480,4590,2024-10-27,Y
+ART00068,Fjellheim Tind XT 400,Outdoor clothing,Outdoor,Fjellheim,2470,4900,2024-11-27,Y
+ART00069,Nordvik Trail XT 100,Outdoor Clothing,Outdoor,Vinterled,1720,3900,2023-09-10,Y
+ART00070,Fjellheim Skog 600,Outdoor clothing,Outdoor,Terra,330,500,2022-07-15,Y
+ART00071,Nordvik Stig 900,Outdoor clothing,Outdoor,Fjellheim,510,800,2018-08-26,N
+ART00072,Terra Stig Pro 900,Outdoor clothing,Outdoor,Nordvik,620,960,2024-08-27,Y
+ART00073,Vinterled Stig XT 500,Outdoor clothing,Outdoor,Vinterled,1640,2900,2019-09-25,Y
+ART00074,Vinterled Glim Light 600,Outdoor Clothing,Outdoor,Aurora,910,2140,2019-07-16,Y
+ART00075,Nordvik Skog 400,Outdoor clothing,Outdoor,Nordvik,1680,2960,2018-11-29,Y
+ART00076,Fjellheim Trail XT 200,Outdoor clothing,Outdoor,Vinterled,1340,2830,2025-08-20,Y
+ART00077,Terra Frost Pro 900,Outdoor Clothing,Outdoor,Aurora,230,430,2018-08-27,Y
+ART00078,Fjellheim Summit Light 500,Outdoor clothing,Outdoor,Fjellheim,650,1380,2021-01-06,Y
+ART00079,Terra Frost XT 300,Outdoor clothing,Outdoor,Fjellheim,1990,3260,2022-07-15,Y
+ART00080,Nordvik Trail Light 900,Outdoor clothing,Outdoor,Vinterled,1310,2400,2020-10-31,N
+ART00081,Aurora Tind 600,Outdoor clothing,Outdoor,Fjellheim,800,1740,2021-05-07,Y
+ART00082,Aurora Trail Light 300,Outdoor clothing,Outdoor,Aurora,1900,3810,2023-02-19,Y
+ART00083,Fjellheim Vidda Light 300,Outdoor clothing,Outdoor,Terra,1590,2420,2024-10-29,Y
+ART00084,Vinterled Strand 900,Outdoor clothing,Outdoor,Aurora,660,1000,2020-05-28,Y
+ART00085,Vinterled Vidda 600,Outdoor Clothing,Outdoor,Terra,1990,4710,2025-03-03,Y
+ART00086,Vinterled Nord XT 600,Clothing,Outdoor,Fjellheim,380,690,2020-03-09,Y
+ART00087,Vinterled Nord 200,Outdoor clothing,Outdoor,Nordvik,610,1110,2022-07-25,Y
+ART00088,Fjellheim Strand XT 200,Outdoor Clothing,Outdoor,Aurora,440,970,2020-11-03,Y
+ART00089,Vinterled Myr 400,Outdoor clothing,Outdoor,Aurora,1300,2670,2020-06-29,N
+ART00090,Aurora Kust 100,Outdoor clothing,Outdoor,Terra,2320,3940,2019-05-25,Y
+ART00091,Fjellheim Summit XT 200,Outdoor Clothing,Outdoor,Terra,1180,2020,2021-12-12,Y
+ART00092,Fjellheim Frost 200,Clothing,Outdoor,Terra,820,1680,2023-11-08,Y
+ART00093,Fjellheim Trail 600,Outdoor Clothing,Outdoor,Terra,940,1620,2023-06-07,Y
+ART00094,Terra Vidda XT 200,Outdoor clothing,Outdoor,Nordvik,270,420,2021-07-26,Y
+ART00095,Terra Vidda XT 600,Outdoor clothing,Outdoor,Nordvik,1930,3740,2019-10-04,Y
+ART00096,Aurora Stig 200,Outdoor Clothing,Outdoor,Nordvik,1420,2220,2020-05-03,Y
+ART00097,Terra Vidda Pro 900,Outdoor Clothing,Outdoor,Fjellheim,1320,2880,2020-02-19,N
+ART00098,Terra Tind 600,Outdoor clothing,Outdoor,Vinterled,1940,3650,2025-01-17,Y
+ART00099,Nordvik Skog Light 200,Outdoor clothing,Outdoor,Fjellheim,810,1680,2019-03-29,Y
+ART00100,Vinterled Summit XT 200,Outdoor clothing,Outdoor,Fjellheim,2320,3970,2023-08-20,Y
+ART00101,Terra Nord Light 200,Outdoor clothing,Outdoor,Nordvik,1980,4480,2024-07-08,Y
+ART00102,Terra Frost Pro 100,Outdoor clothing,Outdoor,Aurora,1770,4180,2022-09-11,Y
+ART00103,Aurora Bre 200,Outdoor clothing,Outdoor,Nordvik,500,950,2020-04-24,N
+ART00104,Vinterled Glim Pro 300,Outdoor clothing,Outdoor,Nordvik,2690,4310,2019-12-31,Y
+ART00105,Fjellheim Fjell XT 600,Outdoor Clothing,Outdoor,Terra,1570,2580,2019-12-11,Y
+ART00106,Aurora Ranger 900,Outdoor clothing,Outdoor,Nordvik,1400,2810,2021-12-16,Y
+ART00107,Aurora Kust Pro 100,Clothing,Outdoor,Terra,2140,3390,2022-04-07,Y
+ART00108,Aurora Nord Light 900,Outdoor clothing,Outdoor,Fjellheim,1280,2770,2024-12-28,Y
+ART00109,Fjellheim Fjell Pro 500,Outdoor clothing,Outdoor,Fjellheim,750,1390,2020-06-20,N
+ART00110,Aurora Summit XT 500,Clothing,Outdoor,Vinterled,1820,3970,2022-07-20,Y
+ART00111,Terra Frost XT 300,Outdoor clothing,Outdoor,Terra,2590,4340,2024-03-15,Y
+ART00112,Fjellheim Summit 500,Outdoor clothing,Outdoor,Terra,2140,3580,2023-10-29,Y
+ART00113,Vinterled Tind Pro 500,Outdoor clothing,Outdoor,Nordvik,1390,2400,2021-06-03,Y
+ART00114,Aurora Kust 200,Outdoor Clothing,Outdoor,Vinterled,600,1330,2022-01-28,Y
+ART00115,Terra Stig 100,Outdoor clothing,Outdoor,Terra,2320,4620,2021-12-04,Y
+ART00116,Aurora Fjell Light 500,Outdoor Clothing,Outdoor,Vinterled,1890,3430,2020-09-12,Y
+ART00117,Nordvik Glim XT 600,Outdoor clothing,Outdoor,Aurora,920,1900,2019-03-17,N
+ART00118,Fjellheim Trail 100,Outdoor clothing,Outdoor,Aurora,210,500,2022-05-17,N
+ART00119,Terra Stig XT 200,Outdoor clothing,Outdoor,Vinterled,2230,4580,2021-03-01,Y
+ART00120,Aurora Trail Pro 900,Outdoor clothing,Outdoor,Aurora,1570,3190,2022-04-05,Y
+ART00121,Fjellheim Kust XT 200,Outdoor clothing,Outdoor,Vinterled,550,1000,2020-10-24,Y
+ART00122,Nordvik Summit Light 100,Outdoor Clothing,Outdoor,Vinterled,1310,2080,2020-07-16,N
+ART00123,Nordvik Skog Pro 300,Clothing,Outdoor,Fjellheim,970,2050,2022-01-08,Y
+ART00124,Aurora Stig XT 100,Outdoor Clothing,Outdoor,Terra,2500,4020,2022-03-09,Y
+ART00125,Vinterled Kust Light 200,Outdoor clothing,Outdoor,Nordvik,1780,3640,2018-11-02,Y
+ART00126,Terra Frost 500,Outdoor clothing,Outdoor,Vinterled,940,1480,2023-12-03,Y
+ART00127,Nordvik Stig Pro 400,Outdoor clothing,Outdoor,Aurora,950,1750,2020-10-16,Y
+ART00128,Nordvik Skog 400,Clothing,Outdoor,Aurora,290,480,2020-04-03,N
+ART00129,Nordvik Vidda XT 200,Outdoor clothing,Outdoor,Fjellheim,700,1650,2022-07-28,Y
+ART00130,Nordvik Myr XT 500,Outdoor clothing,Outdoor,Fjellheim,2140,3310,2021-01-12,Y
+ART00131,Nordvik Tind Pro 300,Outdoor clothing,Outdoor,Fjellheim,2990,4800,2019-02-14,Y
+ART00132,Fjellheim Myr 500,Outdoor Clothing,Outdoor,Nordvik,2300,4340,2023-08-24,Y
+ART00133,Terra Kust Pro 500,Outdoor clothing,Outdoor,Terra,2040,3730,2021-01-15,Y
+ART00134,Terra Trail Pro 900,Outdoor clothing,Outdoor,Aurora,1890,3380,2026-02-12,Y
+ART00135,Terra Nord XT 400,Camping,Camping,Aurora,2190,3910,2019-05-12,N
+ART00136,Terra Trail 600,camping,Camping,Aurora,3120,7210,2023-06-03,Y
+ART00137,Terra Fjell Pro 100,Camping gear,Camping,Nordvik,580,1120,2020-10-21,Y
+ART00138,Terra Ranger 100,camping,Camping,Vinterled,640,1220,2020-07-15,Y
+ART00139,Vinterled Trail Pro 900,camping,Camping,Nordvik,1320,2100,2020-04-15,Y
+ART00140,Vinterled Bre Light 200,Camping,Camping,Vinterled,3240,7700,2019-07-21,Y
+ART00141,Vinterled Fjell Pro 600,Camping,Camping,Vinterled,4130,7530,2020-05-25,N
+ART00142,Fjellheim Fjell 400,Camping,Camping,Terra,1240,1920,2020-04-11,N
+ART00143,Nordvik Fjell 100,camping,Camping,Aurora,1000,2090,2024-04-17,Y
+ART00144,Fjellheim Nord Light 100,Camping gear,Camping,Fjellheim,280,550,2019-01-24,Y
+ART00145,Aurora Fjell Light 900,camping,Camping,Fjellheim,5300,8290,2025-07-17,Y
+ART00146,Nordvik Kust Pro 400,Camping,Camping,Terra,6040,9670,2023-06-17,Y
+ART00147,Vinterled Bre Light 600,Camping,Camping,Terra,3060,6380,2021-08-08,Y
+ART00148,Vinterled Glim Light 300,Camping,Camping,Terra,2190,3540,2023-04-03,Y
+ART00149,Aurora Kust Pro 600,Camping gear,Camping,Nordvik,1890,3790,2025-06-30,Y
+ART00150,Fjellheim Nord 600,Camping,Camping,Vinterled,1430,2360,2024-06-27,Y
+ART00151,Nordvik Skog 500,Camping gear,Camping,Fjellheim,2900,5900,2021-06-16,Y
+ART00152,Terra Strand Light 400,Camping,Camping,Nordvik,2030,4490,2023-04-10,Y
+ART00153,Fjellheim Frost 100,Camping,Camping,Vinterled,3360,6630,2020-10-27,Y
+ART00154,Fjellheim Tind Pro 400,Camping,Camping,Vinterled,3350,5400,2024-12-03,Y
+ART00155,Nordvik Stig XT 900,Camping,Camping,Aurora,3700,6550,2019-04-11,Y
+ART00156,Nordvik Skog 100,Camping,Camping,Terra,360,660,2022-07-18,Y
+ART00157,Nordvik Strand 200,camping,Camping,Nordvik,2730,4170,2024-01-31,Y
+ART00158,Fjellheim Fjell Light 900,Camping,Camping,Vinterled,5490,9390,2019-05-16,Y
+ART00159,Terra Skog Light 900,Camping,Camping,Terra,3960,6240,2020-10-20,Y
+ART00160,Nordvik Trail Light 900,Camping,Camping,Nordvik,3680,6670,2024-11-23,Y
+ART00161,Nordvik Glim 200,camping,Camping,Fjellheim,3320,7710,2018-08-01,Y
+ART00162,Aurora Ranger 600,Camping,Camping,Vinterled,3950,8230,2025-11-17,Y
+ART00163,Vinterled Strand 500,Camping,Camping,Vinterled,3120,6960,2020-03-30,Y
+ART00164,Aurora Ranger XT 900,Camping,Camping,Vinterled,4610,7260,2025-12-11,Y
+ART00165,Terra Kust XT 400,Camping,Camping,Terra,3190,5140,2019-12-07,Y
+ART00166,Vinterled Ranger Pro 200,Camping,Camping,Nordvik,1850,4080,2020-10-18,Y
+ART00167,Vinterled Bre Pro 400,Camping,Camping,Nordvik,1630,2880,2025-12-05,N
+ART00168,Vinterled Trail Pro 200,Camping,Camping,Terra,2630,5290,2023-05-08,Y
+ART00169,Fjellheim Vidda Pro 600,camping,Camping,Aurora,1550,3100,2025-04-25,Y
+ART00170,Fjellheim Bre XT 900,camping,Camping,Aurora,4200,9420,2020-01-14,Y
+ART00171,Terra Tind 100,Camping,Camping,Nordvik,3460,6710,2018-06-27,Y
+ART00172,Vinterled Nord Light 200,Camping,Camping,Vinterled,3690,7380,2019-05-10,Y
+ART00173,Fjellheim Bre 200,Camping,Camping,Terra,4300,6780,2019-12-07,Y
+ART00174,Fjellheim Bre XT 900,Camping,Camping,Nordvik,2070,3260,2026-01-05,N
+ART00175,Nordvik Skog 400,Camping,Camping,Fjellheim,1900,3870,2022-03-20,Y
+ART00176,Vinterled Fjell Pro 200,camping,Camping,Terra,1340,2600,2023-02-04,Y
+ART00177,Terra Tind Pro 600,Camping,Camping,Aurora,1510,2820,2020-10-19,Y
+ART00178,Vinterled Glim Pro 600,camping,Camping,Nordvik,1740,3830,2019-07-20,Y
+ART00179,Nordvik Myr XT 200,Camping,Camping,Terra,4040,8490,2024-10-08,Y
+ART00180,Fjellheim Fjell Light 600,Camping,Camping,Terra,1850,4060,2021-12-14,Y
+ART00181,Fjellheim Strand Light 500,Camping,Camping,Aurora,5320,9110,2025-07-13,N
+ART00182,Terra Kust XT 200,Camping,Camping,Terra,2500,5100,2022-05-31,Y
+ART00183,Terra Stig 900,Camping,Camping,Fjellheim,5070,9720,2021-03-26,Y
+ART00184,Vinterled Stig 100,Camping,Camping,Nordvik,2400,3880,2018-07-29,Y
+ART00185,Nordvik Glim XT 400,camping,Camping,Aurora,4490,9890,2025-01-06,Y
+ART00186,Vinterled Myr Light 300,Camping,Camping,Fjellheim,3000,6510,2022-12-31,Y
+ART00187,Fjellheim Tind 200,Accessory,Accessories,Terra,930,1620,2021-04-21,Y
+ART00188,Nordvik Tind Pro 400,Accessories,Accessories,Fjellheim,420,720,2026-04-25,N
+ART00189,Fjellheim Nord XT 500,Accessories,Accessories,Terra,1020,1780,2022-10-14,Y
+ART00190,Vinterled Trail 900,Accessory,Accessories,Vinterled,1140,1820,2025-10-25,Y
+ART00191,Nordvik Bre XT 600,Accessories,Accessories,Terra,710,1330,2020-03-15,Y
+ART00192,Terra Skog 900,Accessories,Accessories,Vinterled,380,780,2023-04-25,Y
+ART00193,Vinterled Fjell Pro 900,Accessories,Accessories,Terra,380,820,2025-07-11,Y
+ART00194,Vinterled Tind Light 500,Accessory,Accessories,Fjellheim,800,1860,2020-07-13,Y
+ART00195,Fjellheim Ranger XT 100,Accessory,Accessories,Fjellheim,650,1520,2025-03-08,Y
+ART00196,Aurora Kust XT 200,Accessories,Accessories,Nordvik,500,1070,2018-09-15,Y
+ART00197,Terra Tind 400,Accessories,Accessories,Fjellheim,1170,2260,2019-07-29,N
+ART00198,Terra Vidda XT 900,Accessories,Accessories,Terra,250,420,2021-04-11,Y
+ART00199,Vinterled Tind 600,Accessory,Accessories,Vinterled,370,630,2023-10-09,Y
+ART00200,Terra Skog Light 500,Accessories,Accessories,Vinterled,1230,2450,2024-09-19,Y
+ART00201,Fjellheim Strand Pro 600,Accessory,Accessories,Terra,470,1080,2020-12-09,Y
+ART00202,Fjellheim Fjell XT 200,ACCESSORIES,Accessories,Fjellheim,730,1400,2021-11-10,Y
+ART00203,Terra Fjell 600,Accessory,Accessories,Vinterled,1090,1670,2021-12-12,Y
+ART00204,Vinterled Vidda Light 900,Accessories,Accessories,Aurora,540,1260,2025-05-19,N
+ART00205,Aurora Glim XT 900,Accessory,Accessories,Terra,170,270,2021-09-15,Y
+ART00206,Aurora Strand 600,Accessories,Accessories,Nordvik,1010,1870,2020-11-03,Y
+ART00207,Aurora Bre 400,Accessories,Accessories,Aurora,940,1790,2024-09-07,Y
+ART00208,Terra Skog XT 300,Accessories,Accessories,Terra,990,1550,2021-12-07,Y
+ART00209,Nordvik Glim Light 200,Accessories,Accessories,Nordvik,260,400,2023-08-03,Y
+ART00210,Aurora Myr Pro 600,Accessories,Accessories,Nordvik,980,1750,2022-06-24,Y
+ART00211,Fjellheim Myr XT 100,Accessories,Accessories,Vinterled,440,870,2019-12-18,Y
+ART00212,Vinterled Kust 400,Accessory,Accessories,Nordvik,1390,2400,2022-08-10,Y
+ART00213,Vinterled Ranger XT 500,Accessory,Accessories,Fjellheim,670,1030,2023-05-06,Y
+ART00214,Nordvik Glim Light 400,Accessory,Accessories,Nordvik,1250,1940,2021-06-28,N
+ART00215,Nordvik Frost Light 200,ACCESSORIES,Accessories,Aurora,910,1740,2023-04-22,Y
+ART00216,Terra Trail Light 300,Accessories,Accessories,Vinterled,690,1060,2024-12-31,Y
+ART00217,Vinterled Glim Pro 400,Accessories,Accessories,Fjellheim,830,1870,2020-06-17,Y
+ART00218,Vinterled Myr 500,Accessory,Accessories,Terra,790,1500,2020-06-22,N
+ART00219,Terra Summit 200,Accessory,Accessories,Aurora,1080,1810,2025-04-22,Y
+ART00220,Fjellheim Stig XT 600,Accessories,Accessories,Nordvik,1350,2180,2021-07-07,Y
+ART00221,Aurora Ranger 600,Accessories,Accessories,Aurora,990,2310,2025-10-11,Y
+ART00222,Vinterled Stig 400,Accessory,Accessories,Nordvik,940,1730,2022-04-26,Y
+ART00223,Nordvik Strand 200,Accessories,Accessories,Fjellheim,1370,2280,2024-01-31,Y
+ART00224,Aurora Skog Light 400,Accessories,Accessories,Vinterled,580,1120,2025-05-09,N
+ART00225,Fjellheim Stig Pro 400,Accessories,Accessories,Fjellheim,240,430,2018-08-22,Y
+ART00226,Aurora Trail Light 600,Accessory,Accessories,Vinterled,1210,2430,2019-05-17,Y
+ART00227,Terra Ranger Light 900,Accessories,Accessories,Fjellheim,220,450,2021-10-18,Y
+ART00228,Fjellheim Fjell Light 200,Accessories,Accessories,Vinterled,750,1420,2022-01-09,N
+ART00229,Fjellheim Tind Pro 200,Accessories,Accessories,Fjellheim,1000,2010,2021-06-13,N
+ART00230,Aurora Trail Light 100,Accessory,Accessories,Aurora,820,1460,2019-10-29,Y
+ART00231,Terra Vidda XT 500,Accessories,Accessories,Aurora,140,290,2023-12-30,Y
+ART00232,Nordvik Vidda 900,Accessories,Accessories,Terra,220,350,2025-01-23,N
+ART00233,Fjellheim Vidda 500,Accessories,Accessories,Vinterled,970,2160,2025-05-07,Y
+ART00234,Vinterled Frost 400,Accessories,Accessories,Fjellheim,310,510,2019-07-11,Y
+ART00235,Terra Frost 500,ACCESSORIES,Accessories,Aurora,1330,2390,2025-12-11,Y
+ART00236,Vinterled Bre Pro 500,Accessories,Accessories,Vinterled,750,1740,2019-09-23,N
+ART00237,Nordvik Glim Light 200,Accessories,Accessories,Nordvik,810,1620,2018-10-29,Y
+ART00238,Nordvik Trail 900,Accessories,Accessories,Terra,250,500,2019-09-11,Y
+ART00239,Aurora Myr Pro 500,Accessories,Accessories,Nordvik,960,1970,2022-01-10,Y
+ART00240,Aurora Stig XT 600,Accessories,Accessories,Fjellheim,640,1130,2022-08-09,Y
+ART00241,Fjellheim Skog Light 100,Accessories,Accessories,Vinterled,540,1200,2023-10-27,Y
+ART00242,Terra Myr 600,Accessory,Accessories,Vinterled,1290,2130,2020-05-18,Y
+ART00243,Fjellheim Frost Light 300,Accessories,Accessories,Fjellheim,430,910,2019-02-04,Y
+ART00244,Fjellheim Ranger Pro 300,Accessories,Accessories,Aurora,1290,2130,2024-10-12,Y
+ART00245,Vinterled Frost Light 400,Accessory,Accessories,Vinterled,1560,2430,2025-03-12,Y
+ART00246,Vinterled Skog Light 400,Accessories,Accessories,Fjellheim,710,1080,2019-09-15,Y
+ART00247,Aurora Nord XT 900,Accessories,Accessories,Aurora,780,1330,2022-06-27,Y
+ART00248,Vinterled Frost 200,Accessories,Accessories,Vinterled,580,1090,2023-03-07,Y
+ART00249,Fjellheim Ranger 100,Accessories,Accessories,Terra,860,1430,2018-11-19,Y
+ART00250,Vinterled Kust XT 900,Accessories,Accessories,Terra,180,320,2022-10-01,Y
+ART00251,Fjellheim Nord 900,Accessories,Accessories,Terra,320,520,2023-07-04,Y
+ART00252,Fjellheim Strand Pro 900,Accessories,Accessories,Nordvik,820,1860,2023-07-15,Y
+ART00253,Fjellheim Ranger 400,Accessories,Accessories,Nordvik,380,670,2024-08-08,Y
+ART00254,Vinterled Ranger Light 500,Accessory,Accessories,Aurora,90,150,2018-06-25,Y
+ART00255,Terra Nord Pro 400,Service parts,Service,Vinterled,160,330,2018-07-03,Y
+ART00256,Nordvik Bre 300,Accessory,Accessories,Fjellheim,630,1310,2026-03-08,Y
+ART00257,Terra Summit 400,Service Parts,Service,Fjellheim,740,1140,2019-08-14,Y
+ART00258,Terra Stig 600,ACCESSORIES,Accessories,Nordvik,520,1010,2025-07-31,Y
+ART00259,Vinterled Vidda 100,ACCESSORIES,Accessories,Vinterled,690,1470,2019-10-13,Y
+ART00260,Aurora Stig 600,Service parts,Service,Nordvik,1020,1740,2022-09-21,Y
+ART00261,Terra Frost Light 100,Accessories,Accessories,Terra,990,1840,2024-01-12,Y
+ART00262,Fjellheim Frost XT 400,Service parts,Service,Vinterled,540,900,2019-11-05,Y
+ART00263,Nordvik Trail XT 200,Accessory,Accessories,Vinterled,550,930,2024-12-03,Y
+ART00264,Aurora Stig Pro 200,Service parts,Service,Vinterled,1010,1630,2021-09-13,Y
+ART00265,Terra Nord 900,Service parts,Service,Aurora,620,1070,2023-09-24,Y
+ART00266,Vinterled Tind XT 200,Accessories,Accessories,Nordvik,430,680,2019-05-12,Y
+ART00267,Terra Tind Light 900,Service parts,Service,Terra,1030,1600,2026-01-26,Y
+ART00268,Vinterled Ranger XT 100,Spare parts,Service,Fjellheim,800,1550,2022-08-31,Y
+ART00269,Terra Vidda 300,Service parts,Service,Aurora,310,640,2023-12-07,N
+ART00270,Vinterled Trail 300,Accessories,Accessories,Nordvik,60,90,2020-09-12,Y
+ART00271,Terra Bre Light 600,ACCESSORIES,Accessories,Fjellheim,600,1030,2019-06-14,Y
+ART00272,Vinterled Bre Pro 100,ACCESSORIES,Accessories,Vinterled,600,1420,2023-02-20,Y
+ART00273,Nordvik Skog Light 100,ACCESSORIES,Accessories,Fjellheim,270,590,2023-09-18,Y
+ART00274,Vinterled Glim Light 500,Spare parts,Service,Terra,570,1110,2019-05-02,Y
+ART00275,Terra Ranger 100,Service parts,Service,Aurora,650,1500,2023-12-28,Y
+ART00276,Fjellheim Strand 300,Accessories,Accessories,Aurora,280,480,2021-07-11,Y
+ART00277,Terra Glim XT 600,Accessory,Accessories,Vinterled,900,1690,2019-05-05,Y
+ART00278,Nordvik Tind Pro 600,ACCESSORIES,Accessories,Vinterled,620,1320,2021-09-13,Y
+ART00279,Terra Skog 400,Accessory,Accessories,Fjellheim,420,950,2024-09-16,Y
+ART00280,Nordvik Summit 400,Service parts,Service,Nordvik,560,1110,2019-07-09,Y
+ART00281,Fjellheim Fjell 300,ACCESSORIES,Accessories,Fjellheim,730,1650,2018-12-21,Y
+ART00282,Fjellheim Ranger Light 400,Accessories,Accessories,Nordvik,330,650,2019-12-16,Y
+ART00283,Aurora Strand 300,Accessories,Accessories,Aurora,570,1350,2021-01-29,Y
+ART00284,Vinterled Stig 300,Service parts,Service,Terra,320,690,2020-03-14,Y
+ART00285,Aurora Stig Light 200,Service parts,Service,Nordvik,880,1540,2020-07-01,Y
+ART00286,Aurora Nord XT 900,Accessory,Accessories,Vinterled,900,1670,2022-07-18,Y
+ART00287,Fjellheim Fjell XT 600,Spare parts,Service,Aurora,820,1430,2022-04-27,Y
+ART00288,Fjellheim Kust Light 400,Service parts,Service,Terra,810,1860,2019-12-21,Y
+ART00289,Nordvik Ranger 300,Service Parts,Service,Vinterled,80,170,2023-06-07,Y
+ART00290,Vinterled Stig Pro 400,ACCESSORIES,Accessories,Vinterled,730,1710,2023-02-16,Y
+ART00291,Aurora Frost Light 300,ACCESSORIES,Accessories,Terra,820,1440,2021-08-17,Y
+ART00292,Vinterled Glim XT 400,ACCESSORIES,Accessories,Fjellheim,380,740,2019-08-16,Y
+ART00293,Nordvik Strand 200,Service parts,Service,Nordvik,490,970,2022-07-27,Y
+ART00294,Nordvik Stig 600,Service parts,Service,Fjellheim,770,1820,2020-09-24,Y
+ART00295,Terra Skog 300,Accessory,Accessories,Vinterled,60,110,2025-12-22,Y
+ART00296,Aurora Frost Light 200,Service parts,Service,Terra,770,1740,2019-08-18,Y
+ART00297,Vinterled Ranger 900,ACCESSORIES,Accessories,Vinterled,610,1200,2019-08-05,N
+ART00298,Aurora Tind Light 600,Accessory,Accessories,Terra,40,80,2019-03-22,Y
+ART00299,Fjellheim Ranger Light 400,Accessories,Accessories,Vinterled,940,1600,2023-03-11,Y
+ART00300,Vinterled Glim Pro 500,ACCESSORIES,Accessories,Terra,360,590,2018-12-15,Y
