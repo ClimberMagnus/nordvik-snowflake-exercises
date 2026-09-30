@@ -140,8 +140,9 @@ built on the returns table alone will show zero returns before 2025, which is wr
 has been presented to the board at least once.
 
 The return table carries quantity but no amount. To value a return you join back to the
-original order line and use its `ENHETSPRIS`. Returns are always at the price actually
-paid, never at list price.
+original order line and use the price actually paid on it: the line's net amount per
+unit, `BELOPP_1 / ANTAL`, after discount and excluding VAT. Never at list price, and never
+at `ENHETSPRIS`, which is before discount.
 
 ### Reason codes
 
