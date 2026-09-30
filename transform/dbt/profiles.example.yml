@@ -4,10 +4,10 @@ nordvik:
   outputs:
     dev:
       type: snowflake
-      account: <org>-<account>
-      user: <TRAINING_USER>
+      account: DXHGGSH-CLIMBERAB_PARTNER
+      user: <your Snowflake user name>
       private_key_path: ~/.ssh/snowflake_key.p8
-      role: NORDVIK_TRAINING
+      role: _SEC_CL_SNOWFLAKE_DEVELOPERS
       database: NORDVIK
       warehouse: NORDVIK_WH
       schema: DBT_<your initials>
