@@ -9,8 +9,8 @@ Do not circulate outside the commercial team. I write these for myself.*
 
 Numbers pack came in 40 min before the meeting again. Need to fix that.
 
-- Group net sales FY2026 landed just under 342 MSEK. Karin's version said 350-something
-  and it took twenty minutes to work out why — she had the cancelled orders in. Again.
+- Group net sales FY2026: Karin's version came out about 15 MSEK too high and it took
+  twenty minutes to work out why — she had the cancelled orders in. Again.
   Status 90 is not a sale. I have now said this in four consecutive reviews.
 - Uppsala doing better than expected for a store that opened last September. Do NOT put
   it in the LFL table. Sofia had it in there last month and the LFL growth looked
@@ -46,7 +46,7 @@ Numbers pack came in 40 min before the meeting again. Need to fix that.
 
 - The March returns spike. Finally understood: it is the Fjell 500, the battery mount
   bracket. Units sold from about November came back through March, nearly all under
-  reason code 02. Product has a supplier claim in. Roughly 70 units. It is not a data
+  reason code 02. Product has a supplier claim in. Roughly 150 units. It is not a data
   error and it is not a demand signal, and it should be called out separately in any
   March or Q1 commentary rather than left in the returns line where it looks like
   customers going off us.

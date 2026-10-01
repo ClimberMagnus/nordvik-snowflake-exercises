@@ -46,12 +46,19 @@ The raw tables: `customers`, `b2b_accounts`, `products`, `product_category_histo
 
 | Schema | What | You can |
 |---|---|---|
-| `NORDVIK.RAW` | The raw tables, already loaded. The same for everyone. | Read |
+| `NORDVIK.RAW` | The raw tables, already loaded. The same for everyone. | Read (by agreement) |
 | `NORDVIK.DBT_<INITIALS>_STAGING` | Your staging models (dbt creates it) | Build |
 | `NORDVIK.DBT_<INITIALS>_MARTS` | Your star schema (dbt creates it) | Build |
 | `NORDVIK.DBT_<INITIALS>` | Your semantic view, Cortex Search service, agent, scratch work | Build |
 
-Everyone shares one role, so you *can* drop someone else's schema. Don't.
+You use the Climber developer role, `_SEC_CL_SNOWFLAKE_DEVELOPERS`, and so does everyone
+else. It is deliberately broad, so you can keep using Snowflake after the day. That means:
+
+- **RAW is read-only by agreement, not by permission.** Your role *can* write to it. Don't,
+  and tell your AI assistant so; it will happily "clean" the source data if you let it.
+- You *can* drop someone else's schema. Don't.
+- The role reaches other databases in the account too. Today, build only in your own
+  `NORDVIK.DBT_<INITIALS>*` schemas, and always use warehouse `NORDVIK_WH`.
 
 ---
 
@@ -65,7 +72,10 @@ The ten questions are posted in the track channel at 13:20.
 ### 13:20 — baseline (35 min)
 
 Point an agent straight at `NORDVIK.RAW`, with no semantic layer, no descriptions and no
-skills. Run the ten questions and write down the score. Read
+skills. Here "the agent" is your AI assistant, Claude Code (through the `snow` CLI) or
+Cortex Code, given nothing but the question. A Cortex Agent needs a semantic view, and
+that's the next block. Use a fresh conversation for each question. Run the ten questions
+and write down the score. Read
 `data/docs/01_nordvik_business_and_reporting_handbook.md` while you do.
 
 *Checkpoint: post your baseline score and the first answer you knew was wrong.*
@@ -96,13 +106,25 @@ decides your score is everything around it:
   ticket corpus (`NORDVIK.RAW.SUPPORT_TICKETS`, the same content as
   `data/docs/04_support_tickets_and_reviews.csv`). Some questions need the numbers and the
   text together.
-- **Skills** from the three documents in `data/docs/`. They are deliberately raw and not
-  shaped like skills. Deciding what belongs in a skill is part of the exercise.
-- Re-run the ten questions and record the new score.
+- **Skills** from the three documents in `data/docs/`. A skill is a short, reusable set of
+  instructions the agent applies when a question calls for it: a definition, a reporting
+  rule, when to refuse. Put them where the agent you score will use them: the Cortex
+  Agent's instructions, or its skills in Snowsight. The documents are deliberately raw
+  and not shaped like skills. Deciding what belongs in a skill is part of the exercise.
+- Re-run the ten questions against your Cortex Agent, in the Snowsight agent UI, and
+  record the new score.
 
 Our Cortex Agent skills from the demo webinar (churn, forecasting, period-over-period,
-RFM) are worth reading as examples of shape. Don't copy them; the definitions here are
-different on purpose.
+RFM) are worth reading as examples of shape; the link is in the track channel. Don't copy
+them; the definitions here are different on purpose.
+
+Platform notes, tested in this account:
+
+- **Models:** `claude-sonnet-4-5` works, and so does `llama3.3-70b`. Older names that AI
+  assistants often suggest (`claude-4-sonnet`, `mistral-large2`, `openai-gpt-4.1`) fail
+  with "legacy state". In an agent specification, `orchestration: auto` works.
+- **Cortex Search filters** only work on typed attributes, and every RAW column is
+  VARCHAR. Cast dates and numbers in the service's query if you want to filter on them.
 
 *Checkpoint: post your before and after score.*
 
